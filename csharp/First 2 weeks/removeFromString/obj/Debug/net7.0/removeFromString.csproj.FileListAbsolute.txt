@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/removeFromString/bin/Debug/net7.0/removeFromString
+/home/eirika/kattis/csharp/removeFromString/bin/Debug/net7.0/removeFromString.deps.json
+/home/eirika/kattis/csharp/removeFromString/bin/Debug/net7.0/removeFromString.runtimeconfig.json
+/home/eirika/kattis/csharp/removeFromString/bin/Debug/net7.0/removeFromString.dll
+/home/eirika/kattis/csharp/removeFromString/bin/Debug/net7.0/removeFromString.pdb
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/removeFromString.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/removeFromString.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/removeFromString.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/removeFromString.AssemblyInfo.cs
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/removeFromString.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/removeFromString.dll
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/refint/removeFromString.dll
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/removeFromString.pdb
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/removeFromString.genruntimeconfig.cache
+/home/eirika/kattis/csharp/removeFromString/obj/Debug/net7.0/ref/removeFromString.dll

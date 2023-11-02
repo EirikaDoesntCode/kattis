@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/Nsum.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/Nsum.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/Nsum.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/Nsum.AssemblyInfo.cs
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/Nsum.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/week4/Nsum/bin/Debug/net7.0/Nsum
+/home/eirika/kattis/csharp/week4/Nsum/bin/Debug/net7.0/Nsum.deps.json
+/home/eirika/kattis/csharp/week4/Nsum/bin/Debug/net7.0/Nsum.runtimeconfig.json
+/home/eirika/kattis/csharp/week4/Nsum/bin/Debug/net7.0/Nsum.dll
+/home/eirika/kattis/csharp/week4/Nsum/bin/Debug/net7.0/Nsum.pdb
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/Nsum.dll
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/refint/Nsum.dll
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/Nsum.pdb
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/Nsum.genruntimeconfig.cache
+/home/eirika/kattis/csharp/week4/Nsum/obj/Debug/net7.0/ref/Nsum.dll

@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/betting/bin/Debug/net7.0/betting
+/home/eirika/kattis/csharp/betting/bin/Debug/net7.0/betting.deps.json
+/home/eirika/kattis/csharp/betting/bin/Debug/net7.0/betting.runtimeconfig.json
+/home/eirika/kattis/csharp/betting/bin/Debug/net7.0/betting.dll
+/home/eirika/kattis/csharp/betting/bin/Debug/net7.0/betting.pdb
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/betting.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/betting.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/betting.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/betting.AssemblyInfo.cs
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/betting.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/betting.dll
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/refint/betting.dll
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/betting.pdb
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/betting.genruntimeconfig.cache
+/home/eirika/kattis/csharp/betting/obj/Debug/net7.0/ref/betting.dll

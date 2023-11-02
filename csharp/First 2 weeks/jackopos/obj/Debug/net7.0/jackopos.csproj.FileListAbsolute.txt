@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/jackopos/bin/Debug/net7.0/jackopos
+/home/eirika/kattis/csharp/jackopos/bin/Debug/net7.0/jackopos.deps.json
+/home/eirika/kattis/csharp/jackopos/bin/Debug/net7.0/jackopos.runtimeconfig.json
+/home/eirika/kattis/csharp/jackopos/bin/Debug/net7.0/jackopos.dll
+/home/eirika/kattis/csharp/jackopos/bin/Debug/net7.0/jackopos.pdb
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/jackopos.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/jackopos.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/jackopos.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/jackopos.AssemblyInfo.cs
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/jackopos.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/jackopos.dll
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/refint/jackopos.dll
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/jackopos.pdb
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/jackopos.genruntimeconfig.cache
+/home/eirika/kattis/csharp/jackopos/obj/Debug/net7.0/ref/jackopos.dll

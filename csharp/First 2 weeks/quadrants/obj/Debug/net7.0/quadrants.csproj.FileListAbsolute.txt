@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/quadrants/bin/Debug/net7.0/quadrants
+/home/eirika/kattis/csharp/quadrants/bin/Debug/net7.0/quadrants.deps.json
+/home/eirika/kattis/csharp/quadrants/bin/Debug/net7.0/quadrants.runtimeconfig.json
+/home/eirika/kattis/csharp/quadrants/bin/Debug/net7.0/quadrants.dll
+/home/eirika/kattis/csharp/quadrants/bin/Debug/net7.0/quadrants.pdb
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/quadrants.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/quadrants.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/quadrants.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/quadrants.AssemblyInfo.cs
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/quadrants.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/quadrants.dll
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/refint/quadrants.dll
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/quadrants.pdb
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/quadrants.genruntimeconfig.cache
+/home/eirika/kattis/csharp/quadrants/obj/Debug/net7.0/ref/quadrants.dll

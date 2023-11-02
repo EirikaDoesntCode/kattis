@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/addingTrouble/bin/Debug/net7.0/addingTrouble
+/home/eirika/kattis/csharp/addingTrouble/bin/Debug/net7.0/addingTrouble.deps.json
+/home/eirika/kattis/csharp/addingTrouble/bin/Debug/net7.0/addingTrouble.runtimeconfig.json
+/home/eirika/kattis/csharp/addingTrouble/bin/Debug/net7.0/addingTrouble.dll
+/home/eirika/kattis/csharp/addingTrouble/bin/Debug/net7.0/addingTrouble.pdb
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/addingTrouble.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/addingTrouble.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/addingTrouble.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/addingTrouble.AssemblyInfo.cs
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/addingTrouble.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/addingTrouble.dll
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/refint/addingTrouble.dll
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/addingTrouble.pdb
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/addingTrouble.genruntimeconfig.cache
+/home/eirika/kattis/csharp/addingTrouble/obj/Debug/net7.0/ref/addingTrouble.dll

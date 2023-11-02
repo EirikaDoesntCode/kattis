@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/obj/Debug/net7.0/csharp.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/obj/Debug/net7.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/obj/Debug/net7.0/csharp.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/obj/Debug/net7.0/csharp.AssemblyInfo.cs
+/home/eirika/kattis/csharp/obj/Debug/net7.0/csharp.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/bin/Debug/net7.0/csharp
+/home/eirika/kattis/csharp/bin/Debug/net7.0/csharp.deps.json
+/home/eirika/kattis/csharp/bin/Debug/net7.0/csharp.runtimeconfig.json
+/home/eirika/kattis/csharp/bin/Debug/net7.0/csharp.dll
+/home/eirika/kattis/csharp/bin/Debug/net7.0/csharp.pdb
+/home/eirika/kattis/csharp/obj/Debug/net7.0/csharp.dll
+/home/eirika/kattis/csharp/obj/Debug/net7.0/refint/csharp.dll
+/home/eirika/kattis/csharp/obj/Debug/net7.0/csharp.pdb
+/home/eirika/kattis/csharp/obj/Debug/net7.0/csharp.genruntimeconfig.cache
+/home/eirika/kattis/csharp/obj/Debug/net7.0/ref/csharp.dll

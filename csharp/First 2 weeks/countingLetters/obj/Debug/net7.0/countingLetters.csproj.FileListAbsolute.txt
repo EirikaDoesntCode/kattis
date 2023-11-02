@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/countingLetters.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/countingLetters.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/countingLetters.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/countingLetters.AssemblyInfo.cs
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/countingLetters.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/countingLetters/bin/Debug/net7.0/countingLetters
+/home/eirika/kattis/csharp/countingLetters/bin/Debug/net7.0/countingLetters.deps.json
+/home/eirika/kattis/csharp/countingLetters/bin/Debug/net7.0/countingLetters.runtimeconfig.json
+/home/eirika/kattis/csharp/countingLetters/bin/Debug/net7.0/countingLetters.dll
+/home/eirika/kattis/csharp/countingLetters/bin/Debug/net7.0/countingLetters.pdb
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/countingLetters.dll
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/refint/countingLetters.dll
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/countingLetters.pdb
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/countingLetters.genruntimeconfig.cache
+/home/eirika/kattis/csharp/countingLetters/obj/Debug/net7.0/ref/countingLetters.dll

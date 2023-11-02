@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/sorting/bin/Debug/net7.0/sorting
+/home/eirika/kattis/csharp/sorting/bin/Debug/net7.0/sorting.deps.json
+/home/eirika/kattis/csharp/sorting/bin/Debug/net7.0/sorting.runtimeconfig.json
+/home/eirika/kattis/csharp/sorting/bin/Debug/net7.0/sorting.dll
+/home/eirika/kattis/csharp/sorting/bin/Debug/net7.0/sorting.pdb
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/sorting.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/sorting.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/sorting.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/sorting.AssemblyInfo.cs
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/sorting.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/sorting.dll
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/refint/sorting.dll
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/sorting.pdb
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/sorting.genruntimeconfig.cache
+/home/eirika/kattis/csharp/sorting/obj/Debug/net7.0/ref/sorting.dll

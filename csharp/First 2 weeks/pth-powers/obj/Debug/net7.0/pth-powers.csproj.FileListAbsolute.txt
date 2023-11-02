@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/pth-powers/bin/Debug/net7.0/pth-powers
+/home/eirika/kattis/csharp/pth-powers/bin/Debug/net7.0/pth-powers.deps.json
+/home/eirika/kattis/csharp/pth-powers/bin/Debug/net7.0/pth-powers.runtimeconfig.json
+/home/eirika/kattis/csharp/pth-powers/bin/Debug/net7.0/pth-powers.dll
+/home/eirika/kattis/csharp/pth-powers/bin/Debug/net7.0/pth-powers.pdb
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/pth-powers.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/pth-powers.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/pth-powers.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/pth-powers.AssemblyInfo.cs
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/pth-powers.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/pth-powers.dll
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/refint/pth-powers.dll
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/pth-powers.pdb
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/pth-powers.genruntimeconfig.cache
+/home/eirika/kattis/csharp/pth-powers/obj/Debug/net7.0/ref/pth-powers.dll

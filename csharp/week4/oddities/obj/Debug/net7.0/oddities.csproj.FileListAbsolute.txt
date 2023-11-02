@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/week4/oddities/bin/Debug/net7.0/oddities
+/home/eirika/kattis/csharp/week4/oddities/bin/Debug/net7.0/oddities.deps.json
+/home/eirika/kattis/csharp/week4/oddities/bin/Debug/net7.0/oddities.runtimeconfig.json
+/home/eirika/kattis/csharp/week4/oddities/bin/Debug/net7.0/oddities.dll
+/home/eirika/kattis/csharp/week4/oddities/bin/Debug/net7.0/oddities.pdb
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/oddities.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/oddities.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/oddities.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/oddities.AssemblyInfo.cs
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/oddities.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/oddities.dll
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/refint/oddities.dll
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/oddities.pdb
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/oddities.genruntimeconfig.cache
+/home/eirika/kattis/csharp/week4/oddities/obj/Debug/net7.0/ref/oddities.dll

@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/oddecho/bin/Debug/net7.0/oddecho
+/home/eirika/kattis/csharp/oddecho/bin/Debug/net7.0/oddecho.deps.json
+/home/eirika/kattis/csharp/oddecho/bin/Debug/net7.0/oddecho.runtimeconfig.json
+/home/eirika/kattis/csharp/oddecho/bin/Debug/net7.0/oddecho.dll
+/home/eirika/kattis/csharp/oddecho/bin/Debug/net7.0/oddecho.pdb
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/oddecho.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/oddecho.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/oddecho.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/oddecho.AssemblyInfo.cs
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/oddecho.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/oddecho.dll
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/refint/oddecho.dll
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/oddecho.pdb
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/oddecho.genruntimeconfig.cache
+/home/eirika/kattis/csharp/oddecho/obj/Debug/net7.0/ref/oddecho.dll

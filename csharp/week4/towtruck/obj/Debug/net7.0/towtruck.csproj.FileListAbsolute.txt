@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/towtruck.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/towtruck.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/towtruck.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/towtruck.AssemblyInfo.cs
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/towtruck.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/week4/towtruck/bin/Debug/net7.0/towtruck
+/home/eirika/kattis/csharp/week4/towtruck/bin/Debug/net7.0/towtruck.deps.json
+/home/eirika/kattis/csharp/week4/towtruck/bin/Debug/net7.0/towtruck.runtimeconfig.json
+/home/eirika/kattis/csharp/week4/towtruck/bin/Debug/net7.0/towtruck.dll
+/home/eirika/kattis/csharp/week4/towtruck/bin/Debug/net7.0/towtruck.pdb
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/towtruck.dll
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/refint/towtruck.dll
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/towtruck.pdb
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/towtruck.genruntimeconfig.cache
+/home/eirika/kattis/csharp/week4/towtruck/obj/Debug/net7.0/ref/towtruck.dll

@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/week3/trik/bin/Debug/net7.0/trik
+/home/eirika/kattis/csharp/week3/trik/bin/Debug/net7.0/trik.deps.json
+/home/eirika/kattis/csharp/week3/trik/bin/Debug/net7.0/trik.runtimeconfig.json
+/home/eirika/kattis/csharp/week3/trik/bin/Debug/net7.0/trik.dll
+/home/eirika/kattis/csharp/week3/trik/bin/Debug/net7.0/trik.pdb
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/trik.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/trik.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/trik.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/trik.AssemblyInfo.cs
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/trik.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/trik.dll
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/refint/trik.dll
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/trik.pdb
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/trik.genruntimeconfig.cache
+/home/eirika/kattis/csharp/week3/trik/obj/Debug/net7.0/ref/trik.dll

@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/parked-cars/bin/Debug/net7.0/parked-cars
+/home/eirika/kattis/csharp/parked-cars/bin/Debug/net7.0/parked-cars.deps.json
+/home/eirika/kattis/csharp/parked-cars/bin/Debug/net7.0/parked-cars.runtimeconfig.json
+/home/eirika/kattis/csharp/parked-cars/bin/Debug/net7.0/parked-cars.dll
+/home/eirika/kattis/csharp/parked-cars/bin/Debug/net7.0/parked-cars.pdb
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/parked-cars.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/parked-cars.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/parked-cars.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/parked-cars.AssemblyInfo.cs
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/parked-cars.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/parked-cars.dll
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/refint/parked-cars.dll
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/parked-cars.pdb
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/parked-cars.genruntimeconfig.cache
+/home/eirika/kattis/csharp/parked-cars/obj/Debug/net7.0/ref/parked-cars.dll

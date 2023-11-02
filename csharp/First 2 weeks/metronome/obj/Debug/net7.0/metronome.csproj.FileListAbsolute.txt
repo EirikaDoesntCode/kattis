@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/metronome/bin/Debug/net7.0/metronome
+/home/eirika/kattis/csharp/metronome/bin/Debug/net7.0/metronome.deps.json
+/home/eirika/kattis/csharp/metronome/bin/Debug/net7.0/metronome.runtimeconfig.json
+/home/eirika/kattis/csharp/metronome/bin/Debug/net7.0/metronome.dll
+/home/eirika/kattis/csharp/metronome/bin/Debug/net7.0/metronome.pdb
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/metronome.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/metronome.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/metronome.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/metronome.AssemblyInfo.cs
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/metronome.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/metronome.dll
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/refint/metronome.dll
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/metronome.pdb
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/metronome.genruntimeconfig.cache
+/home/eirika/kattis/csharp/metronome/obj/Debug/net7.0/ref/metronome.dll

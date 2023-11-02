@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/summing/bin/Debug/net7.0/summing
+/home/eirika/kattis/csharp/summing/bin/Debug/net7.0/summing.deps.json
+/home/eirika/kattis/csharp/summing/bin/Debug/net7.0/summing.runtimeconfig.json
+/home/eirika/kattis/csharp/summing/bin/Debug/net7.0/summing.dll
+/home/eirika/kattis/csharp/summing/bin/Debug/net7.0/summing.pdb
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/summing.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/summing.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/summing.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/summing.AssemblyInfo.cs
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/summing.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/summing.dll
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/refint/summing.dll
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/summing.pdb
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/summing.genruntimeconfig.cache
+/home/eirika/kattis/csharp/summing/obj/Debug/net7.0/ref/summing.dll

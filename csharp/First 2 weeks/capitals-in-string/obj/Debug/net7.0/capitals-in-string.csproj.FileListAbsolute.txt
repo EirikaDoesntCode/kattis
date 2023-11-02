@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/capitals-in-string/bin/Debug/net7.0/capitals-in-string
+/home/eirika/kattis/csharp/capitals-in-string/bin/Debug/net7.0/capitals-in-string.deps.json
+/home/eirika/kattis/csharp/capitals-in-string/bin/Debug/net7.0/capitals-in-string.runtimeconfig.json
+/home/eirika/kattis/csharp/capitals-in-string/bin/Debug/net7.0/capitals-in-string.dll
+/home/eirika/kattis/csharp/capitals-in-string/bin/Debug/net7.0/capitals-in-string.pdb
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/capitals-in-string.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/capitals-in-string.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/capitals-in-string.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/capitals-in-string.AssemblyInfo.cs
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/capitals-in-string.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/capitals-in-string.dll
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/refint/capitals-in-string.dll
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/capitals-in-string.pdb
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/capitals-in-string.genruntimeconfig.cache
+/home/eirika/kattis/csharp/capitals-in-string/obj/Debug/net7.0/ref/capitals-in-string.dll

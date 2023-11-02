@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/homework/bin/Debug/net7.0/homework
+/home/eirika/kattis/csharp/homework/bin/Debug/net7.0/homework.deps.json
+/home/eirika/kattis/csharp/homework/bin/Debug/net7.0/homework.runtimeconfig.json
+/home/eirika/kattis/csharp/homework/bin/Debug/net7.0/homework.dll
+/home/eirika/kattis/csharp/homework/bin/Debug/net7.0/homework.pdb
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/homework.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/homework.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/homework.AssemblyInfo.cs
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/homework.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/homework.dll
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/refint/homework.dll
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/homework.pdb
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/homework.genruntimeconfig.cache
+/home/eirika/kattis/csharp/homework/obj/Debug/net7.0/ref/homework.dll

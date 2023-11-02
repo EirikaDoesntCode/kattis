@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/pyramid/bin/Debug/net7.0/pyramid
+/home/eirika/kattis/csharp/pyramid/bin/Debug/net7.0/pyramid.deps.json
+/home/eirika/kattis/csharp/pyramid/bin/Debug/net7.0/pyramid.runtimeconfig.json
+/home/eirika/kattis/csharp/pyramid/bin/Debug/net7.0/pyramid.dll
+/home/eirika/kattis/csharp/pyramid/bin/Debug/net7.0/pyramid.pdb
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/pyramid.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/pyramid.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/pyramid.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/pyramid.AssemblyInfo.cs
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/pyramid.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/pyramid.dll
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/refint/pyramid.dll
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/pyramid.pdb
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/pyramid.genruntimeconfig.cache
+/home/eirika/kattis/csharp/pyramid/obj/Debug/net7.0/ref/pyramid.dll

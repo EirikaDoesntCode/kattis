@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/odds.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/odds.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/odds.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/odds.AssemblyInfo.cs
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/odds.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/odds/bin/Debug/net7.0/odds
+/home/eirika/kattis/csharp/odds/bin/Debug/net7.0/odds.deps.json
+/home/eirika/kattis/csharp/odds/bin/Debug/net7.0/odds.runtimeconfig.json
+/home/eirika/kattis/csharp/odds/bin/Debug/net7.0/odds.dll
+/home/eirika/kattis/csharp/odds/bin/Debug/net7.0/odds.pdb
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/odds.dll
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/refint/odds.dll
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/odds.pdb
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/odds.genruntimeconfig.cache
+/home/eirika/kattis/csharp/odds/obj/Debug/net7.0/ref/odds.dll

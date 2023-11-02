@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/knights-packing.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/knights-packing.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/knights-packing.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/knights-packing.AssemblyInfo.cs
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/knights-packing.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/knights-packing/bin/Debug/net7.0/knights-packing
+/home/eirika/kattis/csharp/knights-packing/bin/Debug/net7.0/knights-packing.deps.json
+/home/eirika/kattis/csharp/knights-packing/bin/Debug/net7.0/knights-packing.runtimeconfig.json
+/home/eirika/kattis/csharp/knights-packing/bin/Debug/net7.0/knights-packing.dll
+/home/eirika/kattis/csharp/knights-packing/bin/Debug/net7.0/knights-packing.pdb
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/knights-packing.dll
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/refint/knights-packing.dll
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/knights-packing.pdb
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/knights-packing.genruntimeconfig.cache
+/home/eirika/kattis/csharp/knights-packing/obj/Debug/net7.0/ref/knights-packing.dll

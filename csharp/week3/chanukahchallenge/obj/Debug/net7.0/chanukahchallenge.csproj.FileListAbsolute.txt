@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/week3/chanukahchallenge/bin/Debug/net7.0/chanukahchallenge
+/home/eirika/kattis/csharp/week3/chanukahchallenge/bin/Debug/net7.0/chanukahchallenge.deps.json
+/home/eirika/kattis/csharp/week3/chanukahchallenge/bin/Debug/net7.0/chanukahchallenge.runtimeconfig.json
+/home/eirika/kattis/csharp/week3/chanukahchallenge/bin/Debug/net7.0/chanukahchallenge.dll
+/home/eirika/kattis/csharp/week3/chanukahchallenge/bin/Debug/net7.0/chanukahchallenge.pdb
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/chanukahchallenge.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/chanukahchallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/chanukahchallenge.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/chanukahchallenge.AssemblyInfo.cs
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/chanukahchallenge.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/chanukahchallenge.dll
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/refint/chanukahchallenge.dll
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/chanukahchallenge.pdb
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/chanukahchallenge.genruntimeconfig.cache
+/home/eirika/kattis/csharp/week3/chanukahchallenge/obj/Debug/net7.0/ref/chanukahchallenge.dll

@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/checking-for-555/bin/Debug/net7.0/checking-for-555
+/home/eirika/kattis/csharp/checking-for-555/bin/Debug/net7.0/checking-for-555.deps.json
+/home/eirika/kattis/csharp/checking-for-555/bin/Debug/net7.0/checking-for-555.runtimeconfig.json
+/home/eirika/kattis/csharp/checking-for-555/bin/Debug/net7.0/checking-for-555.dll
+/home/eirika/kattis/csharp/checking-for-555/bin/Debug/net7.0/checking-for-555.pdb
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/checking-for-555.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/checking-for-555.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/checking-for-555.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/checking-for-555.AssemblyInfo.cs
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/checking-for-555.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/checking-for-555.dll
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/refint/checking-for-555.dll
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/checking-for-555.pdb
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/checking-for-555.genruntimeconfig.cache
+/home/eirika/kattis/csharp/checking-for-555/obj/Debug/net7.0/ref/checking-for-555.dll

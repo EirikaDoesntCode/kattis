@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/tarifa/bin/Debug/net7.0/tarifa
+/home/eirika/kattis/csharp/tarifa/bin/Debug/net7.0/tarifa.deps.json
+/home/eirika/kattis/csharp/tarifa/bin/Debug/net7.0/tarifa.runtimeconfig.json
+/home/eirika/kattis/csharp/tarifa/bin/Debug/net7.0/tarifa.dll
+/home/eirika/kattis/csharp/tarifa/bin/Debug/net7.0/tarifa.pdb
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/tarifa.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/tarifa.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/tarifa.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/tarifa.AssemblyInfo.cs
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/tarifa.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/tarifa.dll
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/refint/tarifa.dll
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/tarifa.pdb
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/tarifa.genruntimeconfig.cache
+/home/eirika/kattis/csharp/tarifa/obj/Debug/net7.0/ref/tarifa.dll

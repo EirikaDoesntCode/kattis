@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/bijele.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/bijele.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/bijele.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/bijele.AssemblyInfo.cs
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/bijele.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/week3/bijele/bin/Debug/net7.0/bijele
+/home/eirika/kattis/csharp/week3/bijele/bin/Debug/net7.0/bijele.deps.json
+/home/eirika/kattis/csharp/week3/bijele/bin/Debug/net7.0/bijele.runtimeconfig.json
+/home/eirika/kattis/csharp/week3/bijele/bin/Debug/net7.0/bijele.dll
+/home/eirika/kattis/csharp/week3/bijele/bin/Debug/net7.0/bijele.pdb
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/bijele.dll
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/refint/bijele.dll
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/bijele.pdb
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/bijele.genruntimeconfig.cache
+/home/eirika/kattis/csharp/week3/bijele/obj/Debug/net7.0/ref/bijele.dll

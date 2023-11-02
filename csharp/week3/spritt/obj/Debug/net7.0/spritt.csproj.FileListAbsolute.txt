@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/week3/spritt/bin/Debug/net7.0/spritt
+/home/eirika/kattis/csharp/week3/spritt/bin/Debug/net7.0/spritt.deps.json
+/home/eirika/kattis/csharp/week3/spritt/bin/Debug/net7.0/spritt.runtimeconfig.json
+/home/eirika/kattis/csharp/week3/spritt/bin/Debug/net7.0/spritt.dll
+/home/eirika/kattis/csharp/week3/spritt/bin/Debug/net7.0/spritt.pdb
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/spritt.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/spritt.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/spritt.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/spritt.AssemblyInfo.cs
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/spritt.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/spritt.dll
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/refint/spritt.dll
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/spritt.pdb
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/spritt.genruntimeconfig.cache
+/home/eirika/kattis/csharp/week3/spritt/obj/Debug/net7.0/ref/spritt.dll

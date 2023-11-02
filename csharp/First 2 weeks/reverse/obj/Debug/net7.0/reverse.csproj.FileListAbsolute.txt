@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/reverse/bin/Debug/net7.0/reverse
+/home/eirika/kattis/csharp/reverse/bin/Debug/net7.0/reverse.deps.json
+/home/eirika/kattis/csharp/reverse/bin/Debug/net7.0/reverse.runtimeconfig.json
+/home/eirika/kattis/csharp/reverse/bin/Debug/net7.0/reverse.dll
+/home/eirika/kattis/csharp/reverse/bin/Debug/net7.0/reverse.pdb
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/reverse.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/reverse.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/reverse.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/reverse.AssemblyInfo.cs
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/reverse.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/reverse.dll
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/refint/reverse.dll
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/reverse.pdb
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/reverse.genruntimeconfig.cache
+/home/eirika/kattis/csharp/reverse/obj/Debug/net7.0/ref/reverse.dll

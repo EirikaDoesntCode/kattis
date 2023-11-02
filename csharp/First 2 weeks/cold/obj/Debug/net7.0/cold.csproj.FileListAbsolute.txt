@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/cold/bin/Debug/net7.0/cold
+/home/eirika/kattis/csharp/cold/bin/Debug/net7.0/cold.deps.json
+/home/eirika/kattis/csharp/cold/bin/Debug/net7.0/cold.runtimeconfig.json
+/home/eirika/kattis/csharp/cold/bin/Debug/net7.0/cold.dll
+/home/eirika/kattis/csharp/cold/bin/Debug/net7.0/cold.pdb
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/cold.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/cold.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/cold.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/cold.AssemblyInfo.cs
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/cold.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/cold.dll
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/refint/cold.dll
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/cold.pdb
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/cold.genruntimeconfig.cache
+/home/eirika/kattis/csharp/cold/obj/Debug/net7.0/ref/cold.dll

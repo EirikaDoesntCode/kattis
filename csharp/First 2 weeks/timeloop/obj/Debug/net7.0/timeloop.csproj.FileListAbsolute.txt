@@ -1,0 +1,15 @@
+/home/eirika/kattis/csharp/timeloop/bin/Debug/net7.0/timeloop
+/home/eirika/kattis/csharp/timeloop/bin/Debug/net7.0/timeloop.deps.json
+/home/eirika/kattis/csharp/timeloop/bin/Debug/net7.0/timeloop.runtimeconfig.json
+/home/eirika/kattis/csharp/timeloop/bin/Debug/net7.0/timeloop.dll
+/home/eirika/kattis/csharp/timeloop/bin/Debug/net7.0/timeloop.pdb
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/timeloop.csproj.AssemblyReference.cache
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/timeloop.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/timeloop.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/timeloop.AssemblyInfo.cs
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/timeloop.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/timeloop.dll
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/refint/timeloop.dll
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/timeloop.pdb
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/timeloop.genruntimeconfig.cache
+/home/eirika/kattis/csharp/timeloop/obj/Debug/net7.0/ref/timeloop.dll
