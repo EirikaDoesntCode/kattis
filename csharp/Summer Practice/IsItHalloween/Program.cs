@@ -1,4 +1,5 @@
-﻿using System;
+﻿// https://open.kattis.com/problems/isithalloween
+using System;
 
 namespace IIH
 {
