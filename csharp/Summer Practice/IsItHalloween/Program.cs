@@ -7,7 +7,7 @@ namespace IIH
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            if(input == "OCT 31")
+            if(input == "OCT 31" || input == "DEC 25")
             {
                 Console.WriteLine("yup");
             }
