@@ -1,0 +1,14 @@
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/bin/Debug/net8.0/IsItHalloween
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/bin/Debug/net8.0/IsItHalloween.deps.json
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/bin/Debug/net8.0/IsItHalloween.runtimeconfig.json
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/bin/Debug/net8.0/IsItHalloween.dll
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/bin/Debug/net8.0/IsItHalloween.pdb
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/obj/Debug/net8.0/IsItHalloween.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/obj/Debug/net8.0/IsItHalloween.AssemblyInfoInputs.cache
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/obj/Debug/net8.0/IsItHalloween.AssemblyInfo.cs
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/obj/Debug/net8.0/IsItHalloween.csproj.CoreCompileInputs.cache
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/obj/Debug/net8.0/IsItHalloween.dll
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/obj/Debug/net8.0/refint/IsItHalloween.dll
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/obj/Debug/net8.0/IsItHalloween.pdb
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/obj/Debug/net8.0/IsItHalloween.genruntimeconfig.cache
+/home/eirika/kattis/csharp/Summer Practice/IsItHalloween/obj/Debug/net8.0/ref/IsItHalloween.dll
